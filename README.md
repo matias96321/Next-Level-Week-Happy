@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img alt="Happy" title="Happy" src=".github/Screen.png" />
+</h1>
+
 # Next-Level-Week-Happy
 
 ## Projeto
